@@ -38,7 +38,7 @@ class MyApp extends StatelessWidget {
 }
 
 class Choice {
-  const Choice({this.icon});
+  const Choice({required this.icon});
 
   final IconData icon;
 }
@@ -48,7 +48,7 @@ const List<Choice> choices = const <Choice>[
 ];
 
 class ChoiceCard extends StatelessWidget {
-  const ChoiceCard({Key key, this.choice}) : super(key: key);
+  const ChoiceCard({Key ?key, required this.choice}) : super(key: key);
   final Choice choice;
 
   @override

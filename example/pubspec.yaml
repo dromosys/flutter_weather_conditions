@@ -3,14 +3,20 @@ description: A new Flutter project.
 version: 1.0.0+1
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: '>=3.0.6 <4.0.0'
 
 dependencies:
   flutter:
     sdk: flutter
 
-  cupertino_icons: ^0.1.2
-  flutter_weather_icons: 1.0.2
+  cupertino_icons: ^1.0.2
+  flutter_weather_icons:
+    # When depending on this package from a real application you should use:
+    #   simple_dynamic_forms: ^x.y.z
+    # See https://dart.dev/tools/pub/dependencies#version-constraints
+    # The example app is bundled with the plugin so we use a path dependency on
+    # the parent directory to use the current plugin's version.
+    path: ../
 
 dev_dependencies:
   flutter_test:
