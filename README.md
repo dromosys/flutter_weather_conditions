@@ -1,6 +1,6 @@
 ![header](github_assets/header.jpg)
 
-# flutter_weather_icons _v1.0.2_
+# flutter_weather_icons _v2.0.0_
 ![Pub Version](https://img.shields.io/pub/v/flutter_weather_icons.svg)
 ![Issues](https://img.shields.io/github/issues/rshrc/flutter_weather_icons.svg)
 ![GitHub forks](https://img.shields.io/github/forks/rshrc/flutter_weather_icons.svg)			
@@ -12,6 +12,8 @@
 ## [See Catalog](https://erikflowers.github.io/weather-icons/)
 
 ### _Important Note_
+
+This version is updated to work with null safety requirements.
 
 Naming conventions have been changed for better readability and consistancy with all other flutter icon packs
 
