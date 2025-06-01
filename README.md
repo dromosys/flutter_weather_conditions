@@ -1,6 +1,6 @@
 ![header](github_assets/header.jpg)
 
-# flutter_weather_conditions _v2.0.0_
+# flutter_weather_conditions _v1.0.1_
 ![Pub Version](https://img.shields.io/pub/v/flutter_weather_conditions.svg)
 ![Issues](https://img.shields.io/github/issues/rshrc/flutter_weather_conditions.svg)
 ![GitHub forks](https://img.shields.io/github/forks/rshrc/flutter_weather_conditions.svg)			
