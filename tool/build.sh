@@ -5,6 +5,6 @@ echo "generating flutter_feather_icons.dart file"
 dart ./tool/generate_fonts.dart ./fonts/fonts_config.json
 
 echo "formatting flutter_feather_icons.dart file"
-dartfmt -w lib/flutter_weather_icons.dart
+dartfmt -w lib/flutter_weather_conditions.dart
 
 echo "build process completed successfully"

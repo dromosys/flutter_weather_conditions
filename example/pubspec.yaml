@@ -10,7 +10,7 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.2
-  flutter_weather_icons:
+  flutter_weather_conditions:
     # When depending on this package from a real application you should use:
     #   simple_dynamic_forms: ^x.y.z
     # See https://dart.dev/tools/pub/dependencies#version-constraints

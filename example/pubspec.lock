@@ -67,7 +67,7 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  flutter_weather_icons:
+  flutter_weather_conditions:
     dependency: "direct main"
     description:
       path: ".."

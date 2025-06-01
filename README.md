@@ -1,12 +1,12 @@
 ![header](github_assets/header.jpg)
 
-# flutter_weather_icons _v2.0.0_
-![Pub Version](https://img.shields.io/pub/v/flutter_weather_icons.svg)
-![Issues](https://img.shields.io/github/issues/rshrc/flutter_weather_icons.svg)
-![GitHub forks](https://img.shields.io/github/forks/rshrc/flutter_weather_icons.svg)			
-![License](https://img.shields.io/github/license/rshrc/flutter_weather_icons.svg?color=red)
-![Github Stars](https://img.shields.io/github/stars/rshrc/flutter_weather_icons.svg?style=social)
-![Twitter](https://img.shields.io/twitter/url/https/github.com%2Frshrc%2Fflutter_weather_icons.svg)	
+# flutter_weather_conditions _v2.0.0_
+![Pub Version](https://img.shields.io/pub/v/flutter_weather_conditions.svg)
+![Issues](https://img.shields.io/github/issues/rshrc/flutter_weather_conditions.svg)
+![GitHub forks](https://img.shields.io/github/forks/rshrc/flutter_weather_conditions.svg)			
+![License](https://img.shields.io/github/license/rshrc/flutter_weather_conditions.svg?color=red)
+![Github Stars](https://img.shields.io/github/stars/rshrc/flutter_weather_conditions.svg?style=social)
+![Twitter](https://img.shields.io/twitter/url/https/github.com%2Frshrc%2Fflutter_weather_conditions.svg)	
 
 
 ## [See Catalog](https://erikflowers.github.io/weather-icons/)
@@ -31,7 +31,7 @@ if still you face any problems have a look into the documentation (class Weather
 
 This flutter package allows you to use all of the [Weather Icons](https://github.com/erikflowers/weather-icons) made by [Erik Flowers](https://github.com/erikflowers)
 
-Find it at at [pub.dartlang.org](https://pub.dev/packages/flutter_weather_icons)
+Find it at at [pub.dartlang.org](https://pub.dev/packages/flutter_weather_conditions)
 
 ![Icon Preview](https://i.imgur.com/XmZW2q3.png)
 
@@ -39,12 +39,12 @@ Find it at at [pub.dartlang.org](https://pub.dev/packages/flutter_weather_icons)
 
 In the dependencies: section of your pubspec.yaml, add the following line:
 
-`flutter_weather_icons: <latest_version>`
+`flutter_weather_conditions: <latest_version>`
 
 ## Usage
 
 ```dart
-import 'package:flutter_weather_icons/flutter_weather_icons.dart';
+import 'package:flutter_weather_conditions/flutter_weather_conditions.dart';
 
 class MyAwesomeWidget extends StatelessWidget {
   Widget build(BuildContext context) {

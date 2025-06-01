@@ -1,4 +1,4 @@
-library flutter_weather_icons;
+library flutter_weather_conditions;
 
 import 'package:flutter/widgets.dart';
 
@@ -7,6 +7,6 @@ class WeatherIconData extends IconData {
       : super(
           codePoint,
           fontFamily: 'WeatherIcons',
-          fontPackage: 'flutter_weather_icons',
+          fontPackage: 'flutter_weather_conditions',
         );
 }
